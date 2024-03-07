@@ -36,4 +36,4 @@ This project involves transforming employee data from a columnar format into a s
 2. Clone this repository:
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/ArindamBiswas10/Assignment1.git>
